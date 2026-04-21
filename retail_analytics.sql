@@ -1,7 +1,10 @@
 -- =========================================
 -- RETAIL ANALYTICS PROJECT (SQL)  
 -- =========================================
+CREATE database retail_analytics_db;
+USE retail_analytics_db;
 
+SHOW TABLES;
 -- ================================
 -- 1. DATA CLEANING
 -- ================================
